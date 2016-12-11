@@ -149,7 +149,7 @@ aside {
 header {
   position: relative;
   width: 100%;
-  min-height: auto;
+  min-height: 100vh;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
